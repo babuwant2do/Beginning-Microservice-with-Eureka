@@ -4,3 +4,6 @@
 [submodule "microservice-a"]
 	path = microservice-a
 	url = https://github.com/babuwant2do/microservice-a
+[submodule "microservice-b"]
+	path = microservice-b
+	url = https://github.com/babuwant2do/microservice-b
