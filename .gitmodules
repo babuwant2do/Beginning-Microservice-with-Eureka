@@ -1,0 +1,3 @@
+[submodule "name-server-eureka"]
+	path = name-server-eureka
+	url = https://github.com/babuwant2do/name-server-eureka
