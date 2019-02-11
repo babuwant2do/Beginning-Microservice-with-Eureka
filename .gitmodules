@@ -1,3 +1,6 @@
 [submodule "name-server-eureka"]
 	path = name-server-eureka
 	url = https://github.com/babuwant2do/name-server-eureka
+[submodule "microservice-a"]
+	path = microservice-a
+	url = https://github.com/babuwant2do/microservice-a
